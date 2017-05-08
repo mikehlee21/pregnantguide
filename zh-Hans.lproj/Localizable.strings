@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Pregnant
+
+  Created by Admin User on 1/22/17.
+  Copyright © 2017 Admin User. All rights reserved.
+*/
+
+"Last Menstruation Period" = "末次月经";
+"Weight(kg)" = "重量(kg)";
+"Fetal head has entered the pelvis" = "胎头进入骨盆";
+"High Uterine Fundus(cm)" = "高子宫底(cm)";
+"Height(cm)" = "高(cm)";
+"Fertilization Process" = "妊娠的过程事件";
+"Physical and Psychological improvement during pregnancy" = "身心变化怀孕期间";
+"Uncomfortable condition during pregnancy" = "怀孕期间的不适";
+"Nutrition in pregnancy" = "营养对孕妇";
+"Preparation for Delivering Baby" = "劳工计划";
+"Delivering Animation" = "视频动画劳工";
+"Guide" = "引导";
+"BMI" = "BMI";
+"Fetal Weight" = "胎儿体重";
+"Delivery Date" = "预估日出生";
+"Age of Pregnancy" = "年龄怀孕";
+"Enter Weight(kg)" = "减肥(kg)";
+"Enter Height(cm)" = "高度(cm)";
+"UnderWeight" = "库鲁斯";
+"Body Mass Index" = "身体质量指数";
+"Weight gain up to" = "怀孕期间的推荐体重增加";
+"Overweight" = "油脂";
+"Obese" = "肥胖";
+"CALCULATE" = "算术";
+"Enter High Uterine Fundus(cm)" = "进入高中子宫眼底(cm)";
+"Estimated Weight:" = "预估重量:";
+"Estimated Delivery Date" = "预估日出生";
+"The age of pregnancy is" = "妊娠";
+"weeks" = "周";
+"days" = "天";

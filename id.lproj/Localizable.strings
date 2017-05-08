@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Pregnant
+
+  Created by Admin User on 1/22/17.
+  Copyright © 2017 Admin User. All rights reserved.
+*/
+
+"Last Menstruation Period" = "Periode Menstruasi Terakhir";
+"Weight(kg)" = "Berat(kg)";
+"Fetal head has entered the pelvis" = "Kepala janin masuk ke panggul";
+"High Uterine Fundus(cm)" = "Tinggi Fundus Uterine(cm)";
+"Height(cm)" = "Tinggi(cm)";
+"Fertilization Process" = "PROSES TERJADINYA KEHAMILAN";
+"Physical and Psychological improvement during pregnancy" = "PERUBAHAN FISIK DAN PSIKOLOGIS SELAMA KEHAMILAN";
+"Uncomfortable condition during pregnancy" = "KETIDAKNYAMANAN SELAMA KEHAMILAN";
+"Nutrition in pregnancy" = "GIZI UNTUK IBU HAMIL";
+"Preparation for Delivering Baby" = "RENCANA PERSALINAN";
+"Delivering Animation" = "VIDEO ANIMASI PERSALINAN";
+"Guide" = "Panduan";
+"BMI" = "IMT";
+"Fetal Weight" = "Berat Janin";
+"Delivery Date" = "HPL";
+"Age of Pregnancy" = "Umur Kehamilan";
+"Enter Weight(kg)" = "Berat Badan(kg)";
+"Enter Height(cm)" = "Tinggi Badan(cm)";
+"UnderWeight" = "Kurus";
+"Body Mass Index" = "Indeks Massa Tubuh";
+"Weight gain up to" = "Kenaikan berat badan yang dianjurkan selama hamil";
+"Overweight" = "Gemuk";
+"Obese" = "Obesitas";
+"CALCULATE" = "Hitung";
+"Enter High Uterine Fundus(cm)" = "Masukkan Tinggi Fundus Uterus(cm)";
+"Estimated Weight:" = "Estimasi Berat:";
+"Estimated Delivery Date" = "Hari Perkiraan Lahir";
+"The age of pregnancy is" = "Umur kehamilan";
+"weeks" = "minggu";
+"days" = "hari";

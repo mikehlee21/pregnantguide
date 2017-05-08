@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Pregnant
+
+  Created by Admin User on 1/22/17.
+  Copyright © 2017 Admin User. All rights reserved.
+*/
+
+"Last Menstruation Period" = "Последняя менструация";
+"Weight(kg)" = "вес(kg)";
+"Fetal head has entered the pelvis" = "Фетальный головой ушла в тазу";
+"High Uterine Fundus(cm)" = "Высокий Fundus Утробная(cm)";
+"Height(cm)" = "высокая(cm)";
+"Fertilization Process" = "ПРОЦЕСС EVENT БЕРЕМЕННОСТИ";
+"Physical and Psychological improvement during pregnancy" = "Физического и психологического изменения во время беременности";
+"Uncomfortable condition during pregnancy" = "НЕУДОБСТВО ВО ВРЕМЯ БЕРЕМЕННОСТИ";
+"Nutrition in pregnancy" = "ПИТАНИЕ ДЛЯ БЕРЕМЕННЫХ";
+"Preparation for Delivering Baby" = "ПЛАН ТРУД";
+"Delivering Animation" = "Видеоанимация ТРУД";
+"Guide" = "руководство";
+"BMI" = "BMI";
+"Fetal Weight" = "вес плода";
+"Delivery Date" = "День рождения Оценочное";
+"Age of Pregnancy" = "возраст Беременность";
+"Enter Weight(kg)" = "Потеря веса(kg)";
+"Enter Height(cm)" = "высота(cm)";
+"UnderWeight" = "тонкий";
+"Body Mass Index" = "Индекс массы тела";
+"Weight gain up to" = "Рекомендуемое увеличение массы тела во время беременности";
+"Overweight" = "смазка";
+"Obese" = "ожирение";
+"CALCULATE" = "арифметика";
+"Enter High Uterine Fundus(cm)" = "Введите High Fundus маток(cm)";
+"Estimated Weight:" = "Расчетное Вес:";
+"Estimated Delivery Date" = "День рождения Оценочное";
+"The age of pregnancy is" = "беременность";
+"weeks" = "неделя";
+"days" = "день";

@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Pregnant
+
+  Created by Admin User on 1/22/17.
+  Copyright © 2017 Admin User. All rights reserved.
+*/
+
+"Last Menstruation Period" = "अंतिम माहवारी अवधि";
+"Weight(kg)" = "भार(kg)";
+"Fetal head has entered the pelvis" = "रूण सिर श्रोणि में प्रवेश किया है";
+"High Uterine Fundus(cm)" = "उच्च गर्भाशय बुध्न(cm)";
+"Height(cm)" = "ऊंचाई(cm)";
+"Fertilization Process" = "गर्भावस्था की प्रक्रिया घटना";
+"Physical and Psychological improvement during pregnancy" = "गर्भावस्था के दौरान शारीरिक और मानसिक परिवर्तन";
+"Uncomfortable condition during pregnancy" = "गर्भावस्था के दौरान असुविधा";
+"Nutrition in pregnancy" = "गर्भवती महिलाओं के लिए पोषण";
+"Preparation for Delivering Baby" = "श्रम योजना";
+"Delivering Animation" = "वीडियो एनीमेशन श्रम";
+"Guide" = "मार्गदर्शक";
+"BMI" = "BMI";
+"Fetal Weight" = "रूण वजन";
+"Delivery Date" = "दिन का पूर्वानुमान का जन्म";
+"Age of Pregnancy" = "भावस्था की उम्";
+"Enter Weight(kg)" = "भार(kg)";
+"Enter Height(cm)" = "ऊंचाई(cm)";
+"UnderWeight" = "पतला";
+"Body Mass Index" = "बॉडी मास इंडेक्स";
+"Weight gain up to" = "गर्भावस्था के दौरान वजन बढ़ाने की सिफारिश की ";
+"Overweight" = "ग्रीज़";
+"Obese" = "मोटापा";
+"CALCULATE" = "गणना";
+"Enter High Uterine Fundus(cm)" = "उच्च गर्भाशय बुध्न दर्ज(cm)";
+"Estimated Weight:" = "अनुमानित वज़न:";
+"Estimated Delivery Date" = "अनुमानित डिलीवरी की तारीख";
+"The age of pregnancy is" = "गर्भावस्था की उम्र है";
+"weeks" = "सप्ताह";
+"days" = "दिन";

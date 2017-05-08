@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.onLaEnglish(Any) -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GuideController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():GuideController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,63 @@
+
+/* Class = "UIButton"; normalTitle = "CALCULATE"; ObjectID = "2AN-92-Rou"; */
+"2AN-92-Rou.normalTitle" = "CALCULATE";
+
+/* Class = "UILabel"; text = "Last Menstruation Period"; ObjectID = "5by-7J-SC5"; */
+"5by-7J-SC5.text" = "Last Menstruation Period";
+
+/* Class = "UITextField"; placeholder = "Weight(kg)"; ObjectID = "8Zq-x4-mdJ"; */
+"8Zq-x4-mdJ.placeholder" = "Weight(kg)";
+
+/* Class = "UITextView"; text = "Fetal head has entered the pelvis"; ObjectID = "8ag-iK-phg"; */
+"8ag-iK-phg.text" = "Fetal head has entered the pelvis";
+
+/* Class = "UILabel"; text = "Last Menstruation Period"; ObjectID = "BJx-WX-TuN"; */
+"BJx-WX-TuN.text" = "Last Menstruation Period";
+
+/* Class = "UINavigationItem"; title = "Pregnant Guide"; ObjectID = "KIZ-YO-kfi"; */
+"KIZ-YO-kfi.title" = "Pregnant Guide";
+
+/* Class = "UITextField"; placeholder = "High Uterine Fundus(cm)"; ObjectID = "LHg-wL-10f"; */
+"LHg-wL-10f.placeholder" = "High Uterine Fundus(cm)";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "NMi-bB-gAF"; */
+"NMi-bB-gAF.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "हिंदी"; ObjectID = "Ndd-hd-bXI"; */
+"Ndd-hd-bXI.normalTitle" = "हिंदी";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Rry-xb-wyd"; */
+"Rry-xb-wyd.title" = "Back";
+
+/* Class = "UILabel"; text = "Select a language"; ObjectID = "SA3-Xu-wvF"; */
+"SA3-Xu-wvF.text" = "Select a language";
+
+/* Class = "UIButton"; normalTitle = "CALCULATE"; ObjectID = "Tmu-WD-mw1"; */
+"Tmu-WD-mw1.normalTitle" = "CALCULATE";
+
+/* Class = "UIButton"; normalTitle = "中文"; ObjectID = "aFh-FG-N2Z"; */
+"aFh-FG-N2Z.normalTitle" = "中文";
+
+/* Class = "UIButton"; normalTitle = "русский"; ObjectID = "bft-5i-iZf"; */
+"bft-5i-iZf.normalTitle" = "русский";
+
+/* Class = "UIButton"; normalTitle = "العربية"; ObjectID = "h0C-ou-Bzd"; */
+"h0C-ou-Bzd.normalTitle" = "العربية";
+
+/* Class = "UITextField"; placeholder = "Height(cm)"; ObjectID = "i7B-OB-tIl"; */
+"i7B-OB-tIl.placeholder" = "Height(cm)";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "ju5-4t-iT8"; */
+"ju5-4t-iT8.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mKp-Ea-Hcc"; */
+"mKp-Ea-Hcc.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "FETAL WEIGHT"; ObjectID = "nxt-fN-E2a"; */
+"nxt-fN-E2a.title" = "FETAL WEIGHT";
+
+/* Class = "UIButton"; normalTitle = "Indonesian"; ObjectID = "ukB-10-Ccn"; */
+"ukB-10-Ccn.normalTitle" = "Indonesian";
+
+/* Class = "UINavigationItem"; title = "Pregnant Guide"; ObjectID = "zL5-Sy-0Tu"; */
+"zL5-Sy-0Tu.title" = "Pregnant Guide";

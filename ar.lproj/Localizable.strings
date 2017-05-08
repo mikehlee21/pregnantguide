@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Pregnant
+
+  Created by Admin User on 1/22/17.
+  Copyright © 2017 Admin User. All rights reserved.
+*/
+
+"Last Menstruation Period" = "مشاركة الطمث الفترة";
+"Weight(kg)" = "ارتفاع(cm)";
+"Fetal head has entered the pelvis" = "ذهب رأس الجنين في الحوض";
+"High Uterine Fundus(cm)" = "قاع العين الرحم عالية(cm)";
+"Height(cm)" = "الوزن(kg)";
+"Fertilization Process" = "عملية حالة الحمل";
+"Physical and Psychological improvement during pregnancy" = "التغيرات الجسدية والنفسية أثناء الحمل";
+"Uncomfortable condition during pregnancy" = "حالة غير مريحة أثناء الحمل";
+"Nutrition in pregnancy" = "التغذية للنساء الحوامل";
+"Preparation for Delivering Baby" = "خطة العمالة";
+"Delivering Animation" = "فيديو للرسوم المتحركة العمالة";
+"Guide" = "دليل";
+"BMI" = "BMI";
+"Fetal Weight" = "وزن الجنين";
+"Delivery Date" = "تقديرات الميلاد";
+"Age of Pregnancy" = "الحمل العمر";
+"Enter Weight(kg)" = "الوزن(kg)";
+"Enter Height(cm)" = "ارتفاع(cm)";
+"UnderWeight" = "رقيقة";
+"Body Mass Index" = "مؤشر كتلة الجسم";
+"Weight gain up to" = "زيادة الوزن الموصى بها أثناء الحمل";
+"Overweight" = "شحم";
+"Obese" = "بدانة";
+"CALCULATE" = "علم الحساب";
+"Enter High Uterine Fundus(cm)" = "أدخل العليا الرحم قاع العين (cm)";
+"Estimated Weight:" = "الوزن المقدر:";
+"Estimated Delivery Date" = "تقدر يوم الميلاد";
+"The age of pregnancy is" = "الحمل";
+"weeks" = "أسبوع";
+"days" = "يوم";
